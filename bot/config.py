@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "1786136689:AAGbuofoA_IiZTEXa73f7c2qdWGl60nfiRA"
+    APP_ID = "2856041"
+    API_HASH = "05a77e8bcfa4c4d65c4558f22ffe55ff"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    SUDO_USERS = "1145598541" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "521725259530"
+    G_DRIVE_CLIENT_SECRET = "pSA7IaNHET2G_N1I3Ei5kEAz"
 
 
 class BotCommands:
